@@ -1,5 +1,6 @@
 # CS433 Operating Systems - Programming Projects
 
+![](csusm_logo.jpg)
 ## Overview
 This repository contains programming assignments for CS433 Operating Systems course at California State University San Marcos. Each project implements fundamental operating system concepts, providing hands-on experience with process management, scheduling algorithms, synchronization, memory management, and more.
 
